@@ -10,6 +10,8 @@ Python Developer
 *   ✉️  Со мной можно связаться [sokolovkirill9875@yandex.ru](mailto:sokolovkirill9875@yandex.ru)
 *   🧠  Сейчас активно изучаю django и fastapi
 
+### [My resume](https://cv.hexlet.io/ru/resumes/3436)
+
 ### Skills
 
 
